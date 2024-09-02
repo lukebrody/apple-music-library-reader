@@ -1,0 +1,14 @@
+{
+  "name": "music-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.,js",
+  "scripts": {
+    "exec": "node index.mjs"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "plist": "^3.1.0"
+  }
+}
