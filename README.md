@@ -1,7 +1,8 @@
 1. Open Apple Music. Choose `File > Library > Export Library`.
    ![Export Library](images/export-library.png)
 2. Save to this folder as `Library.xml`
-3. ```
+3. Run commmands:
+   ```
    cd apple-music-library-reader
    npm ci
    npm run exec
